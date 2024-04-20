@@ -36,9 +36,10 @@ Además, estoy en otros proyectos menos técnicos:
 
 ¡Estoy emocionado de conectarme y colaborar contigo! No dudes en enviarme un mensaje o seguirme en mis redes sociales:
 
-- LinkedIn: [Mateo Bodenlle](link)
-- Twitter: [@mateobodenlle](link)
-- Sitio Web: [www.mateobodenlle.com](link)
+- LinkedIn: [Mateo Bodenlle]((https://www.linkedin.com/in/mateo-bodenlle-villarino/))
+- Correo: mateobodenlle@weshearn.com
+<!--- Twitter: [@mateobodenlle](link)
+- Sitio Web: [www.mateobodenlle.com](link) -->
 
 ¡Gracias por visitar mi perfil! 😊
 
