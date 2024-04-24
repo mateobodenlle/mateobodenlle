@@ -38,8 +38,11 @@ Además, estoy en otros proyectos menos técnicos:
 
 - LinkedIn: [Mateo Bodenlle]((https://www.linkedin.com/in/mateo-bodenlle-villarino/))
 - Correo:
+  
      Shearn: mateobodenlle@weshearn.com
+  
      USC: mateo.bodenlle@rai.usc.es
+  
      Personal: mateobodenlle@gmail.com
 <!--- Twitter: [@mateobodenlle](link)
 - Sitio Web: [www.mateobodenlle.com](link) -->
