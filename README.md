@@ -13,16 +13,25 @@
 
 Proyectos técnicos:
 1. **Wearendar**: proyecto finalista para HackUDC
-2. **oPills**
-3. **Shearn Socrwritic**
+2. **oPills**: [oPills]((https://opills.app))
+3. **Shearn Socrwritic**: [Socwritic]((https://shearn-agent-local.vercel.app/))
 
 Además, estoy en otros proyectos menos técnicos:
 
 1. **GDG Santiago de Compostela**: Un sitio web diseñado para informar sobre nuestros eventos y actividades en la comunidad de GDG Santiago de Compostela.
 2. **Shearn**: Trabajando en el desarrollo de una nueva startup tecnológica, aplicando conocimientos en desarrollo de software, gestión de proyectos y financiación.
+3. **OSIX**: cofundador y CEO/CFO de empresa de desarrollo de software OSIX. [OSIX]((https://osix.tech))
 
 ## Lenguajes y Herramientas
 
+- Javascript
+- Frameworks web:
+  - React
+  - Node
+  - Next.js
+  - ...
+- CSS
+- HTML
 - Java
 - C/C++
   - OpenGL 1.2 y 3.3
@@ -30,10 +39,9 @@ Además, estoy en otros proyectos menos técnicos:
 - Python
 - R
 - Scripts de Bash
-- HTML/CSS básico
 - Git / GitHub
 - Herramientas de diseño gráfico a nivel básico
-- Notion
+  
 
 ## ¡Conéctate Conmigo!
 
