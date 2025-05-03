@@ -15,6 +15,7 @@ Proyectos técnicos:
 1. **Wearendar**: proyecto finalista para HackUDC
 2. **oPills**: [oPills]((https://opills.app))
 3. **Shearn Socrwritic**: [Socwritic]((https://shearn-agent-local.vercel.app/))
+[This is an external link to genome.gov](https://www.genome.gov/)
 
 Además, estoy en otros proyectos menos técnicos:
 
