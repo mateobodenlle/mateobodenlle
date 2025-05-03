@@ -13,15 +13,14 @@
 
 Proyectos técnicos:
 1. **Wearendar**: proyecto finalista para HackUDC
-2. **oPills**: [oPills]((https://opills.app))
-3. **Shearn Socrwritic**: [Socwritic]((https://shearn-agent-local.vercel.app/))
-[This is an external link to genome.gov](https://www.genome.gov/)
+2. **oPills**: [oPills](https://opills.app)
+3. **Shearn Socrwritic**: [Socwritic](https://shearn-agent-local.vercel.app/)
 
 Además, estoy en otros proyectos menos técnicos:
 
 1. **GDG Santiago de Compostela**: Un sitio web diseñado para informar sobre nuestros eventos y actividades en la comunidad de GDG Santiago de Compostela.
 2. **Shearn**: Trabajando en el desarrollo de una nueva startup tecnológica, aplicando conocimientos en desarrollo de software, gestión de proyectos y financiación.
-3. **OSIX**: cofundador y CEO/CFO de empresa de desarrollo de software OSIX. [OSIX]((https://osix.tech))
+3. **OSIX**: cofundador y CEO/CFO de empresa de desarrollo de software OSIX. [OSIX](https://osix.tech)
 
 ## Lenguajes y Herramientas
 
@@ -48,8 +47,7 @@ Además, estoy en otros proyectos menos técnicos:
 
 ¡Estoy emocionado de conectarme y colaborar contigo! No dudes en enviarme un mensaje o seguirme en mis redes sociales:
 
-- LinkedIn: [Mateo Bodenlle]((https://www.linkedin.com/in/mateo-bodenlle-villarino/))
-    https://www.linkedin.com/in/mateo-bodenlle-villarino/ 
+- LinkedIn: [Mateo Bodenlle](https://www.linkedin.com/in/mateo-bodenlle-villarino/)
 - Correo:
   
      - Shearn:   mateobodenlle@weshearn.com
