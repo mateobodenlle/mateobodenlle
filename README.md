@@ -12,6 +12,9 @@
 ## Mis Proyectos Destacados
 
 Proyectos técnicos:
+1. **Wearendar**: proyecto finalista para HackUDC
+2. **oPills**
+3. **Shearn Socrwritic**
 
 Además, estoy en otros proyectos menos técnicos:
 
