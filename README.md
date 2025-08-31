@@ -13,10 +13,12 @@
 
 Proyectos técnicos:
 1. **Wearendar**: proyecto finalista para HackUDC
-2. **oPills**: [oPills](https://opills.app)
-3. **Shearn Socrwritic**: [Socwritic](https://shearn-agent-local.vercel.app/)
+2. **oPills**: [oPills](https://opills.app): proyecto ganador en Hackathon OdiseIA4Good 2025, y finalista en EIGE-2025 (Coimbra) 
+4. **Shearn Socrwritic**: [Socwritic](https://shearn-agent-local.vercel.app/)
+5. **Shearn Certainty**: [Certainty](https://shearn-agent-local.vercel.app/)
+6. Trabajos variados en web. Tiendas, landing pages...
 
-Además, estoy en otros proyectos menos técnicos:
+Además, estoy en otros proyectos con un rol menos técnico:
 
 1. **GDG Santiago de Compostela**: Un sitio web diseñado para informar sobre nuestros eventos y actividades en la comunidad de GDG Santiago de Compostela.
 2. **Shearn**: Trabajando en el desarrollo de una nueva startup tecnológica, aplicando conocimientos en desarrollo de software, gestión de proyectos y financiación.
@@ -25,12 +27,24 @@ Además, estoy en otros proyectos menos técnicos:
 ## Lenguajes y Herramientas
 
 - Javascript
-- Frameworks web:
-  - React
-  - Node
-  - Next.js
-  - ...
+- Desarrollo web moderno:
+  - Frontend
+     - React
+     - Vite
+     - React Router
+     - Tailwind
+     - Librerías generales...
+   - Backend
+     - Node.js
+     - FastAPI
+     - Bases de datos (SQL, SQLite, uso de SQLAlquemy...)
+     - Autenticación dcon JWT
+     - APIs de LLM. Experiencia más profunda con Gemini AI
+     - Uvicorn
+     - Sistema de correos SMTP
+   - ...
 - CSS
+- Bases de datos a nivel intermedio
 - HTML
 - Java
 - C/C++
