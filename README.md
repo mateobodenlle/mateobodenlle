@@ -19,30 +19,16 @@ Además, estoy en otros proyectos con un rol menos técnico:
 
 ## Lenguajes y Herramientas
 
-- Desarrollo web moderno - JavaScript y TypeScript básico:
-  - Frontend
-     - React
-     - Vite
-     - React Router
-     - Tailwind
-     - Librerías generales...
-   - Backend
-     - Node.js
-     - FastAPI
-     - Bases de datos (SQL, SQLite, uso de SQLAlquemy...)
-     - Autenticación dcon JWT
-     - APIs de LLM. Experiencia más profunda con Gemini AI
-     - Uvicorn
-     - Sistema de correos SMTP
-- Bases de datos a nivel intermedio
-- Java
-- C/C++
-  - OpenGL 1.2 y 3.3
-  - C Linux (bajo nivel)
-- Python
-- Git / GitHub
-- Herramientas de diseño gráfico a nivel básico
-- Manejo de metodología de trabajo apoyada por agentes.
+Cuenta con experiencia en **desarrollo web moderno** usando **JavaScript** y **TypeScript** a nivel básico.
+
+- **Frontend:** React, Vite, React Router, Tailwind y librerías generales.  
+- **Backend:** Node.js, FastAPI, bases de datos (SQL, SQLite, SQLAlchemy), autenticación con JWT, Uvicorn, sistema de correos SMTP y uso de **APIs de LLM** (especialmente **Gemini AI**).  
+- **Bases de datos:** nivel intermedio.  
+- **Lenguajes adicionales:** Java, C/C++ (OpenGL 1.2 y 3.3, C en Linux a bajo nivel), Python.  
+- **Control de versiones:** Git / GitHub.  
+- **Diseño gráfico:** nivel básico.  
+- **Metodología de trabajo:** apoyada por agentes.
+
   
 
 ## Contacto
