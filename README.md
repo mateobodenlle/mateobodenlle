@@ -1,13 +1,6 @@
-# ¡Hola! 👋
+# Mateo Bodenlle
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Mateo Bodenlle, un estudiante de ingeniería informática en la USC apasionado por la tecnología, el emprendimiento y la innovación. Actualmente, estoy involucrado como tesorero en GDG Santiago de Compostela, donde lideramos la organización de eventos locales para promover el conocimiento tecnológico y la colaboración entre desarrolladores.
-
-## Sobre mí
-
-- 💻 Estudiante de ingeniería informática con un interés especial en desarrollo de software, ingeniería de software y emprendimiento.
-- 🌱 Siempre en busca de nuevas oportunidades para aprender y crecer tanto profesional como personalmente.
-- 🔭 Actualmente trabajando en el lanzamiento de una startup tecnológica, Shearn, donde aplico mis habilidades en identificación de oportunidades, desarrollo de proyectos y gestión empresarial.
-- 📫 ¿Quieres colaborar en un proyecto o simplemente charlar sobre tecnología o emprendimiento? ¡No dudes en contactarme!
+Soy Mateo Bodenlle, un estudiante de ingeniería informática en la USC apasionado por la tecnología, el emprendimiento y la innovación. Tesorero de GDG Santiago de Compostela y cofundador de OSIX Tech, para automatización, y Shearn, para educación. Dos startups tecnológicas de gran valor. 
 
 ## Mis Proyectos Destacados
 
@@ -22,12 +15,11 @@ Además, estoy en otros proyectos con un rol menos técnico:
 
 1. **GDG Santiago de Compostela**: Un sitio web diseñado para informar sobre nuestros eventos y actividades en la comunidad de GDG Santiago de Compostela.
 2. **Shearn**: Trabajando en el desarrollo de una nueva startup tecnológica, aplicando conocimientos en desarrollo de software, gestión de proyectos y financiación.
-3. **OSIX**: cofundador y CEO/CFO de empresa de desarrollo de software OSIX. [OSIX](https://osix.tech)
+3. **OSIX Tech**: cofundador y CEO/CFO de empresa de desarrollo de software OSIX Tech. [OSIX](https://osix.tech). Destaca el producto Nessie [Nessie](https://nessie.osix.tech).
 
 ## Lenguajes y Herramientas
 
-- Javascript
-- Desarrollo web moderno:
+- Desarrollo web moderno - JavaScript y TypeScript básico:
   - Frontend
      - React
      - Vite
@@ -42,25 +34,18 @@ Además, estoy en otros proyectos con un rol menos técnico:
      - APIs de LLM. Experiencia más profunda con Gemini AI
      - Uvicorn
      - Sistema de correos SMTP
-   - ...
-- CSS
 - Bases de datos a nivel intermedio
-- HTML
 - Java
 - C/C++
   - OpenGL 1.2 y 3.3
   - C Linux (bajo nivel)
 - Python
-- R
-- Scripts de Bash
 - Git / GitHub
 - Herramientas de diseño gráfico a nivel básico
+- Manejo de metodología de trabajo apoyada por agentes.
   
 
-## ¡Conéctate Conmigo!
-
-¡Estoy emocionado de conectarme y colaborar contigo! No dudes en enviarme un mensaje o seguirme en mis redes sociales:
-
+## Contacto
 - LinkedIn: [Mateo Bodenlle](https://www.linkedin.com/in/mateo-bodenlle-villarino/)
 - Correo:
   
@@ -72,7 +57,7 @@ Además, estoy en otros proyectos con un rol menos técnico:
 <!--- Twitter: [@mateobodenlle](link)
 - Sitio Web: [www.mateobodenlle.com](link) -->
 
-¡Gracias por visitar mi perfil! 😊
+ 
 
 <!---
 mateobodenlle/mateobodenlle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
