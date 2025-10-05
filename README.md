@@ -1,8 +1,8 @@
 # Mateo Bodenlle
 
-Soy Mateo Bodenlle, un estudiante de ingeniería informática en la USC apasionado por la tecnología, el emprendimiento y la innovación. Tesorero de GDG Santiago de Compostela y cofundador de OSIX Tech, para automatización, y Shearn, para educación. Dos startups tecnológicas de gran valor. 
+Estudiante de ingeniería informática en la USC. Tesorero de GDG Santiago de Compostela y cofundador de OSIX Tech, para automatización, y Shearn, para educación.
 
-## Mis Proyectos Destacados
+## Proyectos Destacados
 
 Proyectos técnicos:
 1. **Wearendar**: proyecto finalista para HackUDC
@@ -19,9 +19,7 @@ Además, estoy en otros proyectos con un rol menos técnico:
 
 ## Lenguajes y Herramientas
 
-Cuenta con experiencia en **desarrollo web moderno** usando **JavaScript** y **TypeScript** a nivel básico.
-
-- **Frontend:** React, Vite, React Router, Tailwind y librerías generales.  
+- **Frontend:** JavaScript y Typescript, React, Vite, React Router, Tailwind y librerías generales.  
 - **Backend:** Node.js, FastAPI, bases de datos (SQL, SQLite, SQLAlchemy), autenticación con JWT, Uvicorn, sistema de correos SMTP y uso de **APIs de LLM** (especialmente **Gemini AI**).  
 - **Bases de datos:** nivel intermedio.  
 - **Lenguajes adicionales:** Java, C/C++ (OpenGL 1.2 y 3.3, C en Linux a bajo nivel), Python.  
@@ -29,16 +27,12 @@ Cuenta con experiencia en **desarrollo web moderno** usando **JavaScript** y **T
 - **Diseño gráfico:** nivel básico.  
 - **Metodología de trabajo:** apoyada por agentes.
 
-  
 
 ## Contacto
 - LinkedIn: [Mateo Bodenlle](https://www.linkedin.com/in/mateo-bodenlle-villarino/)
 - Correo:
-  
      - Shearn:   mateobodenlle@weshearn.com
-  
      - USC:      mateo.bodenlle@rai.usc.es
-  
      - Personal: mateobodenlle@gmail.com
 <!--- Twitter: [@mateobodenlle](link)
 - Sitio Web: [www.mateobodenlle.com](link) -->
