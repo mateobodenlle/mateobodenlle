@@ -2,16 +2,7 @@
 
 Emprendedor.
 
-## Proyectos Destacados
-
-Proyectos técnicos:
-1. **Wearendar**: proyecto finalista para HackUDC
-2. **oPills**: [oPills](https://opills.app): proyecto ganador en Hackathon OdiseIA4Good 2025, y finalista en EIGE-2025 (Coimbra) 
-4. **Shearn Socrwritic**: [Socwritic](https://shearn-agent-local.vercel.app/)
-5. **Shearn Certainty**: [Certainty](https://shearn-agent-local.vercel.app/)
-6. Trabajos variados en web. Tiendas, landing pages...
-
-Proyectos / pusetos
+Desarrollo agéntico para el mundo real. OSIX para automatización, Shearn para educación. 
 
 1. **Google Developer Groups Santiago de Compostela**: Tesorero y organizador. Eventos y actividades en la comunidad tecnológica de GDG Santiago de Compostela.
 2. **Shearn**: CEO y desarrollador de una nueva startup tecnológica, aplicando conocimientos en desarrollo de software, gestión de proyectos y financiación. [Shearn](https://weshearn.cpm)
